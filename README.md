@@ -22,6 +22,9 @@ This project is a Single Page Application (SPA) built with React that allows a c
 * Components for UI separation
 * Centralized state management in App.jsx
 
+## Live link
+https://linetmaina.github.io/portfolio-platform/
+
 ## How to Run
 
 1. Clone the repository
